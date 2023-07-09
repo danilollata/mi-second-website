@@ -1,6 +1,6 @@
 # my-second-website
 
-creating a website to improve my knowledge of web design 
+creating a website to improve my knowledge of web design  // parallax effect
 
 https://danilollata.github.io/my-second-website/ (WEBSITE ONLINE)
 
